@@ -1,0 +1,8 @@
+{
+  "name": "EcoClean India",
+  "description": "A gamified waste management platform transforming civic duty into a competitive, rewarding community experience.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
